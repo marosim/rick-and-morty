@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sources": [
+    "index.css",
+    "App.css"
+  ],
+  "names": [],
+  "mappings": "AAAA,EACE,QAAS,CACT,SAAU,CACV,qBAAsB,CCFtB,iBAAkB,CAClB,gCAAkC,CAClC,aDCF,CCEA,KACE,6DAAyC,CACzC,UACF,CAEA,cACE,eAAkB,CAClB,kBAAmB,CACnB,UACF,CAGA,OACE,gBAAiB,CACjB,qBAAsB,CACtB,WAAY,CACZ,kBAAmB,CACnB,cAAe,CACf,YAAa,CACb,UAAW,CACX,iDACF,CAEA,aACE,cAAe,CACf,aAAc,CACd,kBACF,CAEA,GACE,eAAgB,CAChB,cAAe,CACf,gBAAiB,CACjB,cAAe,CACf,wBAAiB,CAAjB,oBAAiB,CAAjB,gBAAiB,CACjB,+BAEF,CAEA,YAHE,iBAOF,CAJA,SACE,UAAW,CACX,8CAEF,CAEA,aACE,UAAW,CACX,kBACF,CAEA,GACE,aACF,CAEA,iBAEE,cACF,CAEA,SACE,YACF,CAEA,6BAGE,qBAAmB,CAGnB,eAAkB,CAClB,kBAAmB,CACnB,2CAAqB,CACrB,cACF,CAEA,yCAEE,0BAA2B,CAC3B,yBACF",
+  "file": "main.37df3356.chunk.css",
+  "sourcesContent": [
+    "* {\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}\r\n",
+    "* {\r\n  text-align: center;\r\n  font-family: \"Poppins\", sans-serif;\r\n  color: #d3d4d4;\r\n}\r\n\r\nbody {\r\n  background-image: url(\"starry-night.jpg\");\r\n  margin: 3em;\r\n}\r\n\r\n.characterImg {\r\n  margin: 20px 0 0 0;\r\n  border-radius: 20px;\r\n  width: 11em;\r\n}\r\n\r\n\r\nbutton {\r\n  padding: 5px 13px;\r\n  margin: 20px 20px 30px;\r\n  border: none;\r\n  border-radius: 10px;\r\n  font-size: 25px;\r\n  outline: none;\r\n  color: #000;\r\n  background: linear-gradient(to right, #2fa6aa, #227477);\r\n}\r\n\r\nbutton:hover {\r\n  cursor: pointer;\r\n  color: #3a3a3a;\r\n  background: #48bcc0;\r\n}\r\n\r\nli {\r\n  list-style: none;\r\n  display: inline;\r\n  padding: 5px 10px;\r\n  cursor: pointer;\r\n  user-select: none;\r\n  transition: background-color .2s;\r\n  border-radius: 3em;\r\n}\r\n\r\nli:hover {\r\n  color: #000;\r\n  background: #babdbaaf;\r\n  border-radius: 3em;\r\n}\r\n\r\n.currentPage {\r\n  color: #000;\r\n  background: #6ccc4e;\r\n}\r\n\r\nh3 {\r\n  color: #2fa6aa;\r\n}\r\n\r\nh5, \r\n.locationName {\r\n  margin-top: 6px;\r\n}\r\n\r\n.details {\r\n  display: none;\r\n}\r\n\r\n.charContainer, \r\n.locContainer {\r\n  padding: 15px;\r\n  padding-bottom: 2em;\r\n  margin: 2em;\r\n  margin-left: 26em;\r\n  margin-right: 26em;\r\n  border-radius: 10px;\r\n  background: #3d4b4ba2;\r\n  cursor: default;\r\n}\r\n\r\n.charContainer:hover, \r\n.locContainer:hover {\r\n  box-shadow: 0 0 7px #48bcc0;\r\n  transition: box-shadow .1s;\r\n}\r\n"
+  ]
+}

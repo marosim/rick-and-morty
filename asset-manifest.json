@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37df3356.chunk.css",
+    "main.js": "/static/js/main.ea514dbb.chunk.js",
+    "main.js.map": "/static/js/main.ea514dbb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.314686d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.314686d4.js.map",
+    "static/js/2.7bd06a25.chunk.js": "/static/js/2.7bd06a25.chunk.js",
+    "static/js/2.7bd06a25.chunk.js.map": "/static/js/2.7bd06a25.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1186670fc00408a78b97ae54dd2102bf.js": "/precache-manifest.1186670fc00408a78b97ae54dd2102bf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.37df3356.chunk.css.map": "/static/css/main.37df3356.chunk.css.map",
+    "static/js/2.7bd06a25.chunk.js.LICENSE.txt": "/static/js/2.7bd06a25.chunk.js.LICENSE.txt",
+    "static/media/rick-and-morty.png": "/static/media/rick-and-morty.d88b4ae4.png",
+    "static/media/App.css": "/static/media/starry-night.1224027c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.314686d4.js",
+    "static/js/2.7bd06a25.chunk.js",
+    "static/css/main.37df3356.chunk.css",
+    "static/js/main.ea514dbb.chunk.js"
+  ]
+}

@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #d3d4d4;
+}
+body {
+  background-image: url(../media/starry-night.1224027c.jpg);
+  margin: 3em;
+}
+.characterImg {
+  margin: 20px 0 0;
+  border-radius: 20px;
+  width: 11em;
+}
+button {
+  padding: 5px 13px;
+  margin: 20px 20px 30px;
+  border: none;
+  border-radius: 10px;
+  font-size: 25px;
+  outline: none;
+  color: #000;
+  background: linear-gradient(90deg, #2fa6aa, #227477);
+}
+button:hover {
+  cursor: pointer;
+  color: #3a3a3a;
+  background: #48bcc0;
+}
+li {
+  list-style: none;
+  display: inline;
+  padding: 5px 10px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: background-color 0.2s;
+}
+li,
+li:hover {
+  border-radius: 3em;
+}
+li:hover {
+  color: #000;
+  background: rgba(186, 189, 186, 0.6862745098039216);
+}
+.currentPage {
+  color: #000;
+  background: #6ccc4e;
+}
+h3 {
+  color: #2fa6aa;
+}
+.locationName,
+h5 {
+  margin-top: 6px;
+}
+.details {
+  display: none;
+}
+.charContainer,
+.locContainer {
+  padding: 15px 15px 2em;
+  margin: 2em 26em;
+  border-radius: 10px;
+  background: rgba(61, 75, 75, 0.6352941176470588);
+  cursor: default;
+}
+.charContainer:hover,
+.locContainer:hover {
+  box-shadow: 0 0 7px #48bcc0;
+  transition: box-shadow 0.1s;
+}
+/*# sourceMappingURL=main.37df3356.chunk.css.map */
